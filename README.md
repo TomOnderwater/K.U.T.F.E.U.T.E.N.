@@ -1,5 +1,5 @@
 # K.U.T.F.E.U.T.E.N.
-Kies Uw Trauma Forceer Een Ultiem Trauma En Narigheid, a.k.a. K.U.T.F.E.U.T.E.N. contains the development base for a rigged wheel of fortune meant for punishing prospective board members by forcing them to do tasks they don't like to do
+Kies Uw Terreur Forceer Een Ultiem Trauma En Narigheid, a.k.a. K.U.T.F.E.U.T.E.N. contains the development base for a rigged wheel of fortune meant for punishing prospective board members by forcing them to do tasks they don't like to do
 
 Help, it's not working, I can't find the hotspot!
 
